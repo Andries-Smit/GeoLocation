@@ -40,7 +40,9 @@ On the Behavior tab select the attributes. On the Notification tab you can speci
 
 Include the REST Services module in your application and publish a Microflow Service with one parameter with the following attributes:
 
+![2016-08-02_1234](https://cloud.githubusercontent.com/assets/10046210/17325760/a0409dfc-58ad-11e6-8430-c54a99344eae.png)
 
+When a location is retrieved, the Microflow Service will be invoked which will parse the data object.
 
 ## Known issues and bugs
 
