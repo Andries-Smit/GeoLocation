@@ -46,4 +46,4 @@ When a location is retrieved, the Microflow Service will be invoked which will p
 
 ## Known issues and bugs
 
-None. Please let us know if you run into any!
+This widget is only tested on Android devices, though theoretically it should also work on Apple devices.
