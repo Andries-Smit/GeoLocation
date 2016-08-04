@@ -97,6 +97,10 @@ define([
             this._updateRendering();
         },
 
+        showDeviceID: function() {
+            alert("Your device ID: " + device.uuid);
+        },
+
         _startStop: function() {
             if (this.start) {
                 logger.debug("stopping service");

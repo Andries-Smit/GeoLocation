@@ -32,7 +32,7 @@
                 <attributeType name="Integer"/>
             </attributeTypes>
         </property>      
-        <property key="notificationTitle" type="string" required="true" defaultValue="Enexis GPS Tracking">
+        <property key="notificationTitle" type="string" required="true" defaultValue="GPS Tracking">
             <caption>Notification title</caption>
             <category>Notifications</category>
             <description>Custom notification title in the drawer.</description>
